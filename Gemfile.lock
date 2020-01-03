@@ -63,5 +63,8 @@ DEPENDENCIES
   rake
   rspec
 
+RUBY VERSION
+   ruby 2.3.7p456
+
 BUNDLED WITH
-   1.10.6
+   2.1.2
